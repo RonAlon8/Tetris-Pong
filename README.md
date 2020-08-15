@@ -17,7 +17,7 @@ In addition, each player can change the ball to a bomb mode, and if the board to
 
 The goal is to battle your opponent up to a quarter of the screen. Once you did it, you won!
 
- ## Setting
+ ## Settings
  - Make sure before you start to play that the size of the console screen is 80/25.
  - The game can be played with two human players, or one player against a computer controlled paddle with 3 levels.
  - Controlers:  
